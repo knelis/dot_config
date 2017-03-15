@@ -1,7 +1,0 @@
-new-window -n gateway
-selectp -t 0
-splitw -h -p 25
-selectp -t 0
-splitw -v -p 75
-selectp -t 2
-
